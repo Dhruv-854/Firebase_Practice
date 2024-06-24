@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23665449982",
+    "project_id": "fir-practice-3032a",
+    "storage_bucket": "fir-practice-3032a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23665449982:android:e15c07512263672316feaf",
+        "android_client_info": {
+          "package_name": "com.dhruv.firebasepractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4I4asqSgSMCI7NinUSWIvH_yu7xIW0c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
